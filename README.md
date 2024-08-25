@@ -1,7 +1,8 @@
 # CS-300-Analysis-And-Design
 
 
-Reflective Questions
+Reflective Questions: 
+
 What was the problem you were solving in the projects for this course?
 
 In these projects, the primary challenge was to efficiently manage and manipulate course data for a university's course management system. This involved implementing different data structures (Vector, Hash Table, and Binary Search Tree) to store, retrieve, and manipulate course information such as course IDs, titles, and prerequisites.
